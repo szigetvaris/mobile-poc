@@ -1,0 +1,824 @@
+2025-03-18 08:24:51,649 [60670759]   INFO - #c.i.o.u.i.FileSetLimiter - Can't delete C:\Users\SimonSzigetvári\AppData\Local\Google\AndroidStudio2024.2\log\open-telemetry-meters.2025-03-18-08-24-49.json (scheduled for delete on exit)
+2025-03-18 08:24:51,649 [60670759]   INFO - #c.i.o.u.i.FileSetLimiter - Can't delete C:\Users\SimonSzigetvári\AppData\Local\Google\AndroidStudio2024.2\log\open-telemetry-meters.2025-03-18-08-24-49.json (scheduled for delete on exit)
+2025-03-18 08:24:51,668 [60670778]   INFO - #c.i.o.u.i.FileSetLimiter - Can't delete C:\Users\SimonSzigetvári\AppData\Local\Google\AndroidStudio2024.2\log\open-telemetry-meters.2025-03-18-08-24-50.json.8 (scheduled for delete on exit)
+2025-03-18 08:24:51,668 [60670778]   INFO - #c.i.o.u.i.FileSetLimiter - Can't delete C:\Users\SimonSzigetvári\AppData\Local\Google\AndroidStudio2024.2\log\open-telemetry-meters.2025-03-18-08-24-50.json.9 (scheduled for delete on exit)
+2025-03-18 08:24:51,668 [60670778]   INFO - #c.i.o.u.i.FileSetLimiter - Can't delete C:\Users\SimonSzigetvári\AppData\Local\Google\AndroidStudio2024.2\log\open-telemetry-meters.2025-03-18-08-24-50.json.9 (scheduled for delete on exit)
+2025-03-18 08:24:51,712 [60670822]   INFO - #c.i.o.u.i.FileSetLimiter - Can't delete C:\Users\SimonSzigetvári\AppData\Local\Google\AndroidStudio2024.2\log\open-telemetry-meters.2025-03-18-08-24-50.json.8 (scheduled for delete on exit)
+2025-03-18 08:24:52,285 [60671395]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 08:24:52,461 [60671571]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@503ae207 (reason: Push on VFS changes)
+2025-03-18 08:24:52,551 [60671661]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@503ae207 (reason: Push on VFS changes)
+2025-03-18 08:24:52,704 [60671814]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 08:24:52,849 [60671959]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:24:52,851 [60671961]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:24:52,944 [60672054]   INFO - #c.i.c.ComponentStoreImpl - Saving appFileTypeManager took 14 ms, ResourceTrace took 12 ms
+2025-03-18 08:24:53,123 [60672233]   INFO - #c.i.c.ComponentStoreImpl - Saving Project(name=demo-flutter-app, containerState=COMPONENT_CREATED, componentStore=C:\Users\Public\demo-flutter-app)DependencyValidationManager took 30 ms, XDebuggerManager took 38 ms
+2025-03-18 08:24:53,124 [60672234]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:24:53,125 [60672235]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:24:53,159 [60672269]   INFO - #c.i.c.ComponentStoreImpl - Saving appFileTypeManager took 11 ms
+2025-03-18 08:24:55,464 [60674574]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:24:55,466 [60674576]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:24:55,514 [60674624]   INFO - #c.i.c.ComponentStoreImpl - Saving appFileTypeManager took 14 ms
+2025-03-18 08:25:55,199 [60734309]   INFO - #c.i.o.v.n.p.FSRecords - Checking VFS started
+2025-03-18 08:26:04,956 [60744066]   INFO - #c.i.o.v.n.p.FSRecords - Checking VFS finished (healthy): VFSHealthCheckReport[healthy: true](FileRecordsReport[recordsChecked=713993, recordsDeleted=269277, childrenChecked=444076]{nullNameIds=0, unresolvableNameIds=0, notNullContentIds=10224, unresolvableContentIds=0, unresolvableAttributesIds=0, nullParents=0, inconsistentParentChildRelationships=0, generalErrors=0), RootsReport(rootsCount=639, rootsWithParents=0, rootsDeletedButNotRemoved=0, generalErrors=0), NamesEnumeratorReport(namesChecked=213822, namesResolvedToNull=0, idsResolvedToNull=0, inconsistentNames=0, generalErrors=0), ContentEnumeratorReport(contentRecordsChecked=9111, generalErrors=0)){timeTaken=9.761705700s}
+2025-03-18 08:27:46,223 [60845333]   INFO - #com.android.tools.idea.adb.AdbService - Device [R58X9077QNA] is offline (device state is `OFFLINE`)
+2025-03-18 08:27:46,223 [60845333]   INFO - #com.android.tools.idea.adb.AdbService - Device [R58X9077QNA] is offline (device state is `AUTHORIZING`)
+2025-03-18 08:27:46,254 [60845364]   INFO - #com.android.tools.idea.adb.AdbService - Device [R58X9077QNA] is offline (device state is `OFFLINE`)
+2025-03-18 08:27:46,254 [60845364]   INFO - #com.android.tools.idea.adb.AdbService - Device [R58X9077QNA] has come online
+2025-03-18 08:27:46,569 [60845679]   INFO - #com.android.adblib.impl.SyncSendHandler - device:serial-R58X9077QNA,sync:SEND - AdbInputFileChannel("C:\Program Files\Android\Android Studio\plugins\android\resources\process-tracker-agent\native\arm64-v8a\process-tracker") -> "/data/local/tmp/.studio/process-tracker"
+2025-03-18 08:28:27,608 [60886718] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 08:28:27,608 [60886718] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 08:28:40,179 [60899289]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:28:40,181 [60899291]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:32:17,999 [61117109] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 08:32:18,000 [61117110] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 08:32:30,917 [61130027]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:32:30,917 [61130027]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:32:59,050 [61158160]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:32:59,050 [61158160]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:33:07,752 [61166862]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:07,752 [61166862]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:08,231 [61167341]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:08,231 [61167341]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:08,761 [61167871]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:08,761 [61167871]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:08,972 [61168082]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:08,972 [61168082]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:10,341 [61169451]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:10,341 [61169451]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:11,198 [61170308]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:11,198 [61170308]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:11,848 [61170958]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:11,848 [61170958]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:12,661 [61171771]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:12,661 [61171771]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:14,498 [61173608]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:14,498 [61173608]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:16,356 [61175466]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:16,356 [61175466]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:16,577 [61175687]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:16,577 [61175687]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:17,176 [61176286]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:17,176 [61176286]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:17,447 [61176557]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:17,447 [61176557]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:17,829 [61176939]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:17,829 [61176939]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:18,099 [61177209]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:33:18,099 [61177209]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:33:39,393 [61198503]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:33:39,393 [61198503]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:33:53,364 [61212474]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:33:53,365 [61212475]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:33:53,420 [61212530]   INFO - #c.i.c.ComponentStoreImpl - Saving appFileTypeManager took 17 ms
+2025-03-18 08:35:18,975 [61298085]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:35:18,983 [61298093]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:35:29,075 [61308185]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:35:29,075 [61308185]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:35:29,549 [61308659]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:35:29,550 [61308660]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:35:52,276 [61331386]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:35:52,276 [61331386]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:37:51,800 [61450910]   WARN - com.jediterm.terminal.emulator.JediEmulator - Unhandled Control Sequence (parsed: ESC[200~, raw: ESC[200~)
+2025-03-18 08:37:51,806 [61450916]   WARN - com.jediterm.terminal.emulator.JediEmulator - Unhandled Control Sequence (parsed: ESC[200~, raw: ESC[200~)
+2025-03-18 08:37:51,815 [61450925] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 08:37:51,815 [61450925] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 08:37:51,815 [61450925]   WARN - com.jediterm.terminal.emulator.JediEmulator - Unhandled Control Sequence (parsed: ESC[200~, raw: ESC[200~)
+2025-03-18 08:37:51,852 [61450962] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 08:37:51,852 [61450962] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 08:37:51,880 [61450990] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 08:37:51,880 [61450990] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 08:38:28,156 [61487266]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:38:28,158 [61487268]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:41:01,540 [61640650]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:41:01,541 [61640651]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:47:17,476 [62016586]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:47:17,476 [62016586]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:47:18,411 [62017521]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:47:18,411 [62017521]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:47:25,017 [62024127]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:47:25,017 [62024127]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:49:30,290 [62149400]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:49:30,290 [62149400]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:49:31,077 [62150187]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:49:31,077 [62150187]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:49:32,893 [62152003]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:49:32,893 [62152003]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:49:37,635 [62156745]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:49:37,636 [62156746]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:51:33,998 [62273108]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:51:33,999 [62273109]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:51:42,554 [62281664]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:51:42,554 [62281664]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:51:42,567 [62281677]   INFO - #c.i.c.ComponentStoreImpl - Saving appPostfixTemplatesSettings took 13 ms
+2025-03-18 08:52:15,878 [62314988]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:52:15,878 [62314988]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:52:59,240 [62358350]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:52:59,241 [62358351]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:54:34,126 [62453236]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:54:34,126 [62453236]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:55:30,614 [62509724]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:30,614 [62509724]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:45,485 [62524595]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:45,485 [62524595]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:45,599 [62524709]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:45,599 [62524709]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:45,712 [62524822]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:45,712 [62524822]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:45,815 [62524925]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:45,815 [62524925]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:45,928 [62525038]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:45,928 [62525038]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:46,041 [62525151]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:46,041 [62525151]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:46,154 [62525264]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:46,154 [62525264]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:46,267 [62525377]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:46,267 [62525377]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:46,381 [62525491]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:46,381 [62525491]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:46,487 [62525597]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:46,487 [62525597]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:55:46,601 [62525711]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 08:55:46,601 [62525711]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 08:56:08,297 [62547407]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:56:08,297 [62547407]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:56:58,698 [62597808]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:56:58,698 [62597808]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 08:57:54,961 [62654071]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 08:57:54,961 [62654071]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:00:23,361 [62802471]   INFO - #c.i.d.JVMResponsivenessMonitor - JVM responsiveness: {avg: 8908.266666666666, 50%: 6303, 99%: 66111, 99.9%: 186879, max: 287999 }ns, x{3600 measurements}
+2025-03-18 09:00:35,120 [62814230]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:00:35,120 [62814230]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:00:35,138 [62814248]   INFO - #c.i.c.ComponentStoreImpl - Saving appGradleJvmSupportMatrix took 11 ms
+2025-03-18 09:00:35,142 [62814252]   INFO - #c.i.c.ComponentStoreImpl - Saving Project(name=demo-flutter-app, containerState=COMPONENT_CREATED, componentStore=C:\Users\Public\demo-flutter-app)ProjectView took 12 ms
+2025-03-18 09:01:19,074 [62858184]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:01:19,074 [62858184]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:01:20,631 [62859741]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:01:20,631 [62859741]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:01:23,923 [62863033]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:01:23,923 [62863033]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:01:28,392 [62867502]   INFO - #o.j.p.t.LocalTerminalDirectRunner - Started com.pty4j.windows.conpty.WinConPtyProcess in 10 ms from [C:\Program Files\Git\bin\bash.exe] in C:\Users\Public\demo-flutter-app, [columns=228, rows=13], diff_envs={TERMINAL_EMULATOR=JetBrains-JediTerm, TERM_SESSION_ID=7e3c14f2-77b6-4fc1-82fb-7494e4498cf4}
+2025-03-18 09:01:40,816 [62879926]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:01:40,817 [62879927]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:02:13,346 [62912456]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:02:13,347 [62912457]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:04:20,691 [63039801]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:04:20,691 [63039801]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:04:43,309 [63062419]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:43,309 [63062419]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:44,755 [63063865]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:44,755 [63063865]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:47,682 [63066792]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:47,682 [63066792]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:47,795 [63066905]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:47,795 [63066905]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:47,907 [63067017]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:47,907 [63067017]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:48,020 [63067130]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:48,020 [63067130]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:48,133 [63067243]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:48,133 [63067243]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:48,247 [63067357]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:48,247 [63067357]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:48,361 [63067471]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:48,361 [63067471]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:48,474 [63067584]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:48,474 [63067584]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:48,577 [63067687]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:04:48,577 [63067687]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:04:54,834 [63073944]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:04:54,834 [63073944]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:05:08,783 [63087893]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:05:08,783 [63087893]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:05:09,500 [63088610]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:05:09,500 [63088610]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:05:21,531 [63100641]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:05:21,531 [63100641]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:07:51,377 [63250487]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:07:51,393 [63250503]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@19c1dd31 (reason: Push on VFS changes)
+2025-03-18 09:07:51,413 [63250523]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@19c1dd31 (reason: Push on VFS changes)
+2025-03-18 09:07:51,415 [63250525]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:08:06,439 [63265549]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:08:06,468 [63265578]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@5b4acf49 (reason: Push on VFS changes)
+2025-03-18 09:08:06,470 [63265580]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@5b4acf49 (reason: Push on VFS changes)
+2025-03-18 09:08:06,486 [63265596]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:08:23,327 [63282437]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:08:23,572 [63282682]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@615df6f9 (reason: Push on VFS changes)
+2025-03-18 09:08:23,600 [63282710]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@615df6f9 (reason: Push on VFS changes)
+2025-03-18 09:08:23,629 [63282739]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:08:39,687 [63298797]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:08:39,996 [63299106]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@2c3e7795 (reason: Push on VFS changes)
+2025-03-18 09:08:40,037 [63299147]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@2c3e7795 (reason: Push on VFS changes)
+2025-03-18 09:08:40,038 [63299148]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:08:40,046 [63299156]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:08:40,069 [63299179]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 22ms
+2025-03-18 09:08:40,069 [63299179]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 24ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:08:40,075 [63299185]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:08:40,078 [63299188]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:08:55,232 [63314342]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:08:55,472 [63314582]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@381019e0 (reason: Push on VFS changes)
+2025-03-18 09:08:55,488 [63314598]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@381019e0 (reason: Push on VFS changes)
+2025-03-18 09:08:55,546 [63314656]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:08:55,554 [63314664]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:08:55,594 [63314704]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 39ms
+2025-03-18 09:08:55,594 [63314704]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 40ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:08:55,609 [63314719]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:08:55,611 [63314721]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:09:13,350 [63332460]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:09:14,015 [63333125]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@2151220 (reason: Push on VFS changes)
+2025-03-18 09:09:14,141 [63333251]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@2151220 (reason: Push on VFS changes)
+2025-03-18 09:09:14,548 [63333658]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:09:14,562 [63333672]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:09:14,899 [63334009]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 1 to update, calculated in 336ms
+2025-03-18 09:09:14,996 [63334106]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 436ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:09:15,008 [63334118]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:09:15,115 [63334225]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:09:29,110 [63348220]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:09:29,288 [63348398]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@4161f662 (reason: Push on VFS changes)
+2025-03-18 09:09:29,300 [63348410]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@4161f662 (reason: Push on VFS changes)
+2025-03-18 09:09:29,358 [63348468]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:09:29,363 [63348473]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:09:29,369 [63348479]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 5ms
+2025-03-18 09:09:29,369 [63348479]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 7ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:09:29,382 [63348492]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:09:29,449 [63348559]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:09:35,196 [63354306] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:09:35,196 [63354306] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:09:44,343 [63363453]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:09:44,365 [63363475]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@e911545 (reason: Push on VFS changes)
+2025-03-18 09:09:44,373 [63363483]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@e911545 (reason: Push on VFS changes)
+2025-03-18 09:09:44,382 [63363492]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:09:44,386 [63363496]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:09:44,386 [63363496]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 0ms
+2025-03-18 09:09:44,386 [63363496]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 0ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:09:44,393 [63363503]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:09:44,410 [63363520]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:09:59,384 [63378494]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:09:59,403 [63378513]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@4f6837ba (reason: Push on VFS changes)
+2025-03-18 09:09:59,411 [63378521]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@4f6837ba (reason: Push on VFS changes)
+2025-03-18 09:09:59,443 [63378553]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:10:09,192 [63388302]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:10:09,349 [63388459]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@39282245 (reason: Push on VFS changes)
+2025-03-18 09:10:09,396 [63388506]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@39282245 (reason: Push on VFS changes)
+2025-03-18 09:10:09,487 [63388597]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:10:25,690 [63404800]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:10:25,698 [63404808]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:10:25,834 [63404944]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:10:25,870 [63404980]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@1083d49a (reason: Push on VFS changes)
+2025-03-18 09:10:25,902 [63405012]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@1083d49a (reason: Push on VFS changes)
+2025-03-18 09:10:25,934 [63405044]   INFO - #c.i.c.ComponentStoreImpl - Saving appFileTypeManager took 35 ms, FindSettings took 11 ms, GradleJvmSupportMatrix took 16 ms, HttpConfigurable took 11 ms, LightEdit took 41 ms, Registry took 60 ms
+2025-03-18 09:10:26,117 [63405227]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:10:26,365 [63405475]   INFO - #c.i.c.ComponentStoreImpl - Saving Project(name=demo-flutter-app, containerState=COMPONENT_CREATED, componentStore=C:\Users\Public\demo-flutter-app)FileEditorManager took 31 ms, KotlinCommonCompilerArguments took 23 ms, ProjectStartupLocalConfiguration took 42 ms, ProjectView took 48 ms, RunConfigurationProducerService took 14 ms, ServiceViewManager took 140 ms, XDebuggerManager took 23 ms, editorHistoryManager took 264 ms
+2025-03-18 09:10:27,359 [63406469]   INFO - #c.i.o.c.i.s.StoreUtil - saveProjectsAndApp took 1667 ms
+2025-03-18 09:10:27,479 [63406589]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:10:27,539 [63406649]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 0ms
+2025-03-18 09:10:27,539 [63406649]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 283ms; general responsiveness: 1/1 sluggish; EDT responsiveness: ok
+2025-03-18 09:10:27,561 [63406671]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:10:27,562 [63406672]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:11:10,442 [63449552]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:11:10,469 [63449579]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@53c63508 (reason: Push on VFS changes)
+2025-03-18 09:11:10,477 [63449587]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@53c63508 (reason: Push on VFS changes)
+2025-03-18 09:11:10,495 [63449605]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:11:10,504 [63449614]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:11:10,572 [63449682]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 67ms
+2025-03-18 09:11:10,573 [63449683]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 70ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:11:10,583 [63449693]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:11:10,603 [63449713]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:11:19,490 [63458600] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:11:26,281 [63465391]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:11:28,244 [63467354]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@3f9eb217 (reason: Push on VFS changes)
+2025-03-18 09:11:28,276 [63467386]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@3f9eb217 (reason: Push on VFS changes)
+2025-03-18 09:11:28,910 [63468020]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:11:28,989 [63468099]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:11:29,190 [63468300]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 1 to update, calculated in 201ms
+2025-03-18 09:11:29,192 [63468302]   INFO - #c.i.u.i.FileBasedIndexImpl - File: file://C:/Users/Public/demo-flutter-app/android/.gradle/8.10.2/executionHistory/executionHistory.bin is too large for indexing
+2025-03-18 09:11:29,233 [63468343]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 245ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:11:29,254 [63468364]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:11:29,541 [63468651]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:11:29,554 [63468664]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:11:29,565 [63468675]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 1 to update, calculated in 10ms
+2025-03-18 09:11:29,567 [63468677]   INFO - #c.i.u.i.FileBasedIndexImpl - File: file://C:/Users/Public/demo-flutter-app/android/.gradle/8.10.2/executionHistory/executionHistory.bin is too large for indexing
+2025-03-18 09:11:29,614 [63468724]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 62ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:11:29,624 [63468734]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:11:29,887 [63468997]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:11:34,314 [63473424] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:11:34,315 [63473425] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:11:34,420 [63473530] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:11:34,420 [63473530] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:11:45,635 [63484745]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:11:45,859 [63484969]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@74939fb (reason: Push on VFS changes)
+2025-03-18 09:11:45,893 [63485003]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@74939fb (reason: Push on VFS changes)
+2025-03-18 09:11:45,902 [63485012]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:12:00,902 [63500012]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:12:00,964 [63500074]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@656b5eac (reason: Push on VFS changes)
+2025-03-18 09:12:01,006 [63500116]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@656b5eac (reason: Push on VFS changes)
+2025-03-18 09:12:01,013 [63500123]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:12:15,975 [63515085]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:12:15,994 [63515104]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@2076140b (reason: Push on VFS changes)
+2025-03-18 09:12:16,021 [63515131]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@2076140b (reason: Push on VFS changes)
+2025-03-18 09:12:16,049 [63515159]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:12:34,219 [63533329]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:12:35,912 [63535022]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@ccbe3a2 (reason: Push on VFS changes)
+2025-03-18 09:12:35,973 [63535083]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@ccbe3a2 (reason: Push on VFS changes)
+2025-03-18 09:12:36,344 [63535454]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:12:42,358 [63541468] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:12:42,359 [63541469] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:12:42,393 [63541503] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:12:42,393 [63541503] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:12:51,535 [63550645]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:12:51,657 [63550767]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@637f51f1 (reason: Push on VFS changes)
+2025-03-18 09:12:51,674 [63550784]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@637f51f1 (reason: Push on VFS changes)
+2025-03-18 09:12:51,696 [63550806]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:12:51,700 [63550810]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:12:51,700 [63550810]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 0ms
+2025-03-18 09:12:51,701 [63550811]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 1ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:12:51,707 [63550817]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:12:51,729 [63550839]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:13:01,445 [63560555] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:13:01,446 [63560556] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:13:01,570 [63560680] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:13:01,571 [63560681] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:13:07,142 [63566252]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:13:08,376 [63567486]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@78c64477 (reason: Push on VFS changes)
+2025-03-18 09:13:08,433 [63567543]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@78c64477 (reason: Push on VFS changes)
+2025-03-18 09:13:08,476 [63567586]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:13:08,486 [63567596]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:13:08,592 [63567702]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 104ms
+2025-03-18 09:13:08,592 [63567702]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 106ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:13:08,607 [63567717]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:13:08,633 [63567743]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:13:23,665 [63582775]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:13:23,828 [63582938]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@19ea02bb (reason: Push on VFS changes)
+2025-03-18 09:13:23,905 [63583015]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@19ea02bb (reason: Push on VFS changes)
+2025-03-18 09:13:25,591 [63584701]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:13:25,649 [63584759]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:13:25,671 [63584781]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 21ms
+2025-03-18 09:13:25,672 [63584782]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 23ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:13:25,695 [63584805]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:13:25,711 [63584821]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:13:39,035 [63598145]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:13:39,412 [63598522]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@27d56eb8 (reason: Push on VFS changes)
+2025-03-18 09:13:40,529 [63599639]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@27d56eb8 (reason: Push on VFS changes)
+2025-03-18 09:13:40,530 [63599640]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:13:54,326 [63613436]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:13:54,556 [63613666]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@1aa142a9 (reason: Push on VFS changes)
+2025-03-18 09:13:55,661 [63614771]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@1aa142a9 (reason: Push on VFS changes)
+2025-03-18 09:13:56,857 [63615967]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:13:56,932 [63616042]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:13:56,949 [63616059]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 16ms
+2025-03-18 09:13:56,952 [63616062]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 22ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:13:57,112 [63616222]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:13:57,209 [63616319]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:14:09,524 [63628634]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:14:09,641 [63628751]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@2b5bbed1 (reason: Push on VFS changes)
+2025-03-18 09:14:09,648 [63628758]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@2b5bbed1 (reason: Push on VFS changes)
+2025-03-18 09:14:09,648 [63628758]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:14:09,659 [63628769]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:14:09,691 [63628801]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 31ms
+2025-03-18 09:14:09,691 [63628801]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 32ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:14:09,709 [63628819]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:14:09,714 [63628824]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:14:24,701 [63643811]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:14:25,051 [63644161]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@2cb2aef (reason: Push on VFS changes)
+2025-03-18 09:14:26,385 [63645495]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@2cb2aef (reason: Push on VFS changes)
+2025-03-18 09:14:26,615 [63645725]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:14:26,843 [63645953]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:14:26,869 [63645979]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 25ms
+2025-03-18 09:14:26,870 [63645980]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 27ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:14:26,883 [63645993]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:14:27,424 [63646534]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:14:31,800 [63650910]   WARN - #c.i.u.i.p.ProjectIndexableFilesFilterHealthCheck - Following files are indexable but they were NOT found in filter. Errors count: 1. Examples:
+2025-03-18 09:14:44,317 [63663427]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:14:47,896 [63667006]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@55a76982 (reason: Push on VFS changes)
+2025-03-18 09:14:48,137 [63667247]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@55a76982 (reason: Push on VFS changes)
+2025-03-18 09:14:48,204 [63667314]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:14:48,256 [63667366]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:14:48,502 [63667612]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 246ms
+2025-03-18 09:14:48,502 [63667612]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 246ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:14:48,542 [63667652]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:14:48,544 [63667654]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:15:06,121 [63685231]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:15:06,889 [63685999]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@572e2501 (reason: Push on VFS changes)
+2025-03-18 09:15:06,997 [63686107]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@572e2501 (reason: Push on VFS changes)
+2025-03-18 09:15:07,428 [63686538]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:15:08,632 [63687742]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:15:08,633 [63687743]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 0ms
+2025-03-18 09:15:08,633 [63687743]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 3ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:15:09,131 [63688241]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:15:09,151 [63688261]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:15:19,512 [63698622]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:15:19,555 [63698665]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@4c6df56a (reason: Push on VFS changes)
+2025-03-18 09:15:19,575 [63698685]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@4c6df56a (reason: Push on VFS changes)
+2025-03-18 09:15:19,639 [63698749]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:15:19,648 [63698758]   INFO - #c.i.u.i.c.IndexUpdateRunner - Using 3 indexing and 4 writing threads for indexing
+2025-03-18 09:15:19,651 [63698761]   INFO - #c.i.u.i.ProjectChangedFilesScanner - Retrieving changed during indexing files of demo-flutter-app : 0 to update, calculated in 3ms
+2025-03-18 09:15:19,652 [63698762]   INFO - #c.i.u.i.UnindexedFilesIndexer - Finished for demo-flutter-app. Unindexed files update took 4ms; general responsiveness: ok; EDT responsiveness: ok
+2025-03-18 09:15:19,674 [63698784]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) UnindexedFilesIndexer[demo-flutter-app, 0 files, reason: On refresh of files in demo-flutter-app]
+2025-03-18 09:15:19,750 [63698860]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:15:26,971 [63706081] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:15:29,755 [63708865] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:18:00,058 [63859168] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:18:57,255 [63916365]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 09:18:57,317 [63916427]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@631d5de0 (reason: Push on VFS changes)
+2025-03-18 09:18:57,338 [63916448]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@631d5de0 (reason: Push on VFS changes)
+2025-03-18 09:18:57,363 [63916473]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 09:19:28,036 [63947146]   WARN - #c.i.u.i.p.ProjectIndexableFilesFilterHealthCheck - Following files are indexable but they were NOT found in filter. Errors count: 1. Examples:
+2025-03-18 09:29:45,229 [64564339]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:29:45,233 [64564343]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:29:46,199 [64565309]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:29:46,204 [64565314]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:29:46,243 [64565353]   INFO - #c.i.c.ComponentStoreImpl - Saving appFileTypeManager took 16 ms
+2025-03-18 09:39:18,217 [65137327] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:39:18,219 [65137329] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:39:38,739 [65157849]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:39:38,742 [65157852]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:40:35,440 [65214550] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:40:35,440 [65214550] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:40:35,475 [65214585] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:40:35,475 [65214585] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 13 >= 13
+2025-03-18 09:41:33,062 [65272172]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:41:33,063 [65272173]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:41:53,395 [65292505]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:41:53,396 [65292506]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:41:54,322 [65293432]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:41:54,322 [65293432]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:41:57,663 [65296773]   INFO - #c.i.o.a.i.ActionPopupMenuImpl - isPopupOrMainMenuPlace(StickyLine)==false. Use ActionPlaces.getPopupPlace.
+2025-03-18 09:42:09,954 [65309064]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:42:09,955 [65309065]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:42:18,316 [65317426]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:42:18,317 [65317427]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:42:18,959 [65318069]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:42:18,960 [65318070]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:42:20,106 [65319216]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:42:20,106 [65319216]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:42:20,656 [65319766]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:42:20,656 [65319766]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:42:20,843 [65319953]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:42:20,843 [65319953]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:42:21,235 [65320345]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:42:21,235 [65320345]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:42:28,941 [65328051]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:42:28,950 [65328060]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:42:43,681 [65342791]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:42:43,681 [65342791]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:42:53,738 [65352848]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:42:53,738 [65352848]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:42:58,483 [65357593]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:42:58,484 [65357594]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:43:07,087 [65366197]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:43:07,087 [65366197]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:43:07,605 [65366715]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:43:07,605 [65366715]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:43:08,631 [65367741]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to true
+2025-03-18 09:43:08,631 [65367741]   WARN - com.jediterm.terminal.TerminalMode - Mode ReverseVideo is not implemented, setting to false
+2025-03-18 09:43:18,162 [65377272]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:43:18,163 [65377273]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:43:52,700 [65411810]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:43:52,703 [65411813]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:43:57,312 [65416422]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:43:57,313 [65416423]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 09:44:01,170 [65420280]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 09:44:01,170 [65420280]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 10:00:59,507 [66438617]   INFO - #c.i.d.JVMResponsivenessMonitor - JVM responsiveness: {avg: 9714.103611111112, 50%: 6003, 99%: 74815, 99.9%: 300799, max: 1132543 }ns, x{3600 measurements}
+2025-03-18 10:29:47,455 [68166565]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 10:29:47,457 [68166567]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 10:29:48,820 [68167930]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 10:29:48,824 [68167934]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 10:29:49,923 [68169033]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 10:29:49,924 [68169034]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 10:45:45,613 [69124723]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=17954)
+2025-03-18 10:45:46,069 [69125179]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '17954' is now known as pkg='io.appium.settings' (proc='io.appium.settings')
+2025-03-18 10:45:46,075 [69125185]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '17954' is now known as pkg='io.appium.settings' (proc='io.appium.settings')
+2025-03-18 10:45:52,800 [69131910]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=18572)
+2025-03-18 10:45:53,338 [69132448]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '18572' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:45:53,338 [69132448]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '18572' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:45:56,713 [69135823]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '18572' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:45:59,373 [69138483]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=19087)
+2025-03-18 10:45:59,895 [69139005]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '19087' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:45:59,895 [69139005]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '19087' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:46:00,987 [69140097]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '17954' is now known as pkg='io.appium.settings' (proc='io.appium.settings')
+2025-03-18 10:46:03,078 [69142188]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '19087' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:46:05,923 [69145033]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=19308)
+2025-03-18 10:46:06,452 [69145562]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '19308' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:46:06,452 [69145562]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '19308' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:46:09,743 [69148853]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '19308' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:46:12,881 [69151991]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=19504)
+2025-03-18 10:46:13,413 [69152523]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '19504' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:46:13,413 [69152523]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '19504' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:46:16,730 [69155840]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '19504' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:50:53,231 [69432341]   INFO - #c.i.o.p.DumbServiceImpl - enter dumb mode [demo-flutter-app]
+2025-03-18 10:50:53,325 [69432435]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Running task: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@5e27c9c8 (reason: Push on VFS changes)
+2025-03-18 10:50:53,343 [69432453]   INFO - #c.i.o.p.MergingQueueGuiExecutor - Task finished: (dumb mode task) com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$MyDumbModeTask@5e27c9c8 (reason: Push on VFS changes)
+2025-03-18 10:50:53,419 [69432529]   INFO - #c.i.o.p.DumbServiceImpl - exit dumb mode [demo-flutter-app]
+2025-03-18 10:54:13,601 [69632711]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=20386)
+2025-03-18 10:54:16,424 [69635534]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=20899)
+2025-03-18 10:54:16,927 [69636037]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '20899' is now known as pkg='io.appium.settings' (proc='io.appium.settings')
+2025-03-18 10:54:16,927 [69636037]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '20899' is now known as pkg='io.appium.settings' (proc='io.appium.settings')
+2025-03-18 10:54:22,913 [69642023]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=21467)
+2025-03-18 10:54:23,434 [69642544]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '21467' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:23,450 [69642560]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '21467' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:26,679 [69645789]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '21467' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:29,137 [69648247]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=21860)
+2025-03-18 10:54:29,655 [69648765]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '21860' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:29,665 [69648775]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '21860' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:31,937 [69651047]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '20899' is now known as pkg='io.appium.settings' (proc='io.appium.settings')
+2025-03-18 10:54:32,912 [69652022]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '21860' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:35,971 [69655081]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=22067)
+2025-03-18 10:54:36,495 [69655605]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '22067' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:36,495 [69655605]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '22067' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:39,725 [69658835]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '22067' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:43,159 [69662269]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=22257)
+2025-03-18 10:54:43,670 [69662780]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '22257' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:43,670 [69662780]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '22257' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:54:46,979 [69666089]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '22257' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:29,589 [69828699]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=22957)
+2025-03-18 10:57:30,107 [69829217]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '22957' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:30,107 [69829217]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '22957' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:33,394 [69832504]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '22957' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:35,809 [69834919]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=23292)
+2025-03-18 10:57:36,330 [69835440]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '23292' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:36,330 [69835440]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '23292' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:39,545 [69838655]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '23292' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:42,597 [69841707]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=23489)
+2025-03-18 10:57:43,129 [69842239]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '23489' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:43,129 [69842239]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '23489' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:46,304 [69845414]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '23489' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:49,785 [69848895]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=23708)
+2025-03-18 10:57:50,295 [69849405]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '23708' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:50,295 [69849405]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '23708' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 10:57:53,502 [69852612]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '23708' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 11:00:25,377 [70004487]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=24256)
+2025-03-18 11:00:25,914 [70005024]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '24256' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 11:00:25,914 [70005024]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '24256' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 11:00:28,742 [70007852]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=24547)
+2025-03-18 11:00:29,281 [70008391]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '24547' is now known as pkg='com.example.flutter_demo_app' (proc='com.example.flutter_demo_app')
+2025-03-18 11:00:29,283 [70008393]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '24547' is now known as pkg='com.example.flutter_demo_app' (proc='com.example.flutter_demo_app')
+2025-03-18 11:00:35,330 [70014440]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '24547' is now known as pkg='com.example.flutter_demo_app' (proc='com.example.flutter_demo_app')
+2025-03-18 11:00:35,437 [70014547]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '24256' is now known as pkg='io.appium.uiautomator2.server' (proc='io.appium.uiautomator2.server')
+2025-03-18 11:00:50,974 [70030084]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=24795)
+2025-03-18 11:00:51,482 [70030592]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '24795' is now known as pkg='com.example.flutter_demo_app' (proc='com.example.flutter_demo_app')
+2025-03-18 11:01:06,485 [70045595]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '24795' is now known as pkg='com.example.flutter_demo_app' (proc='com.example.flutter_demo_app')
+2025-03-18 11:01:26,204 [70065314]   INFO - #c.i.d.JVMResponsivenessMonitor - JVM responsiveness: {avg: 10451.994166666667, 50%: 6303, 99%: 91327, 99.9%: 378879, max: 2181119 }ns, x{3600 measurements}
+2025-03-18 11:14:19,460 [70838570]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' tracking jdwp process (pid=25512)
+2025-03-18 11:14:19,978 [70839088]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '25512' is now known as pkg='com.example.flutter_demo_app' (proc='com.example.flutter_demo_app')
+2025-03-18 11:14:19,981 [70839091]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '25512' is now known as pkg='com.example.flutter_demo_app' (proc='com.example.flutter_demo_app')
+2025-03-18 11:14:34,971 [70854081]   INFO - #com.android.ddmlib - Device 'samsung-sm_a155f-R58X9077QNA' jdwp process '25512' is now known as pkg='com.example.flutter_demo_app' (proc='com.example.flutter_demo_app')
+2025-03-18 11:18:58,402 [71117512]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 11:18:58,402 [71117512]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 11:19:08,004 [71127114]   INFO - Emulator: Pixel Fold API 35 - C:\Users\AndroidStudio\AppData\Local\Android\Sdk\emulator\emulator.exe -netdelay none -netspeed full -avd Pixel_Fold_API_35 -qt-hide-window -grpc-use-token -idle-grpc-timeout 300
+2025-03-18 11:19:08,175 [71127285]   INFO - Emulator: Pixel Fold API 35 - Android emulator version 35.2.10.0 (build_id 12414864) (CL:N/A)
+2025-03-18 11:19:08,175 [71127285]   INFO - Emulator: Pixel Fold API 35 - Graphics backend: gfxstream
+2025-03-18 11:19:08,175 [71127285]   INFO - Emulator: Pixel Fold API 35 - Found systemPath C:\Users\AndroidStudio\AppData\Local\Android\Sdk\system-images\android-35\google_apis_playstore\x86_64\
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Duplicate loglines will be removed, if you wish to see each individual line launch with the -log-nofilter flag.
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Increasing RAM size to 3072MB
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - IPv4 server found: 192.168.50.1
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 60c2:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 60c2:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 60c2:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 50ce:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 50ce:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 50ce:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 48d4:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 48d4:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 48d4:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,529 [71128639]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: d0da:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: d0da:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: d0da:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: d8e0:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: d8e0:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: d8e0:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: c8ee:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: c8ee:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: c8ee:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 28f5:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 28f5:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 28f5:9481:1b02:0:60c2:9481:1b02:0
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Critical:
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - Storing crashdata in: C:\Users\SIMONS~1\AppData\Local\Temp\\AndroidEmulator\emu-crash-35.2.10.db, detection is enabled for process: 22280
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - library_mode host gpu mode host
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - emuglConfig_get_vulkan_hardware_gpu: Using gpu 'Intel(R) UHD Graphics 620' for vulkan support
+2025-03-18 11:19:09,530 [71128640]   INFO - Emulator: Pixel Fold API 35 - 
+2025-03-18 11:19:09,530 [71128640]   WARN - Emulator: Pixel Fold API 35 - Your GPU 'Intel(R) UHD Graphics 620' has driver version 1.2.196, and cannot support Vulkan properly on windows. Please update your GPU Driver.
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - Initializing hardware OpenGLES emulation support
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - android_startOpenglesRenderer: gpu infoGPU #1
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - Make: 8086
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - Model: Intel(R) UHD Graphics 620
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - Device ID: 5917
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - I0318 11:19:09.553218   23120 HealthMonitor.cpp:279] HealthMonitor disabled.
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - I0318 11:19:09.828094   23120 FrameBuffer.cpp:522] Graphics Adapter Vendor Google (Intel)
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - I0318 11:19:09.828109   23120 FrameBuffer.cpp:523] Graphics Adapter Android Emulator OpenGL ES Translator (Intel(R) UHD Graphics 620)
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - I0318 11:19:09.828111   23120 FrameBuffer.cpp:524] Graphics API Version OpenGL ES 3.0 (4.5.0 - Build 30.0.101.1122)
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - I0318 11:19:09.828113   23120 FrameBuffer.cpp:525] Graphics API Extensions GL_OES_EGL_sync GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_depth24 GL_OES_depth32 GL_OES_element_index_uint GL_OES_texture_float GL_OES_texture_float_linear GL_OES_compressed_paletted_texture GL_OES_compressed_ETC1_RGB8_texture GL_OES_depth_texture GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_packed_depth_stencil GL_OES_vertex_half_float GL_OES_texture_npot GL_OES_rgb8_rgba8 GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_EXT_texture_format_BGRA8888 GL_APPLE_texture_format_BGRA8888
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - I0318 11:19:09.828116   23120 FrameBuffer.cpp:526] Graphics Device Extensions N/A
+2025-03-18 11:19:09,922 [71129032]   INFO - Emulator: Pixel Fold API 35 - Sending adb public key [QAAAAOWavbETbXISAi2HsTuMaeSQElhNYqKeYeoXFMI5GMx1n4NUG86scwpHUnz1AgA12TAt7L/e4k9RtcwAfTvqe8KozIpsA8HqqLACFnRYx0aGSwh1RGLSZDXThRX+eP/CqaZWl0AfFGYRdQRZ/j1Ow5VMQUgY5auFxjT5jxGCEXj+Q9P9ZK/1p/9t48xDnscxUGYAGB4arGMRtFdpI3//TAWjYSlPuMuwkSZ5cjksNfY7t1ZSHhj6XpQmbRq9YVWjv/zJY9EO7eaHIh3VQ3BDqgq9z5GEJX2JbXcIvjjdz7K6H5Jbmj2jjdroCr0M6htGN/PotMS7w05FdnGqNLnl1k//U8WrvibrDg3adMwID8Zr3OB2mX4Pxrz2KF176pH9zuG1wEgP2tmub+WQam/yV8cFR1kckhmSRQF/loOKoeuzkZFJ+p549QOWiL1NWvLxygP06L6nlopputHcwlO7R6lgVXsqNFeKOzMe2qQMPysHcYtcVkBoQF3ubM7Vi0XSx01NN2PSKwnalPvP+51BxpU4lgQ8dumS7F3x3KLgnzxlg8aiXS3JAZY4Uy0j99J0LNtm2sashOLxBJCB/Ahz+4nEKQ5Prmmp9vxLmG03PfUc8ETxnrAcHrKDKZrmy/kgIbGykXJQ2m2VbqXG1BQQ8FCpI6vFE8fdfuX1mmThfAHrNCeofwEAAQA= @unknown]
+2025-03-18 11:19:09,923 [71129033]   INFO - Emulator: Pixel Fold API 35 - Configuring second built-in display with width 1080 and height 2092 for pixel_fold device
+2025-03-18 11:19:09,923 [71129033]   WARN - Emulator: Pixel Fold API 35 - Ignoring invalid parameter detected in function: 0000000000000000 file: 0000000000000000, line: 0, expression: 0000000000000000
+2025-03-18 11:19:09,923 [71129033]   WARN - Emulator: Pixel Fold API 35 - Failed to save 'C:\Users\SimonSzigetvári\.android\avd\..\avd\Pixel_Fold_API_35.avd\hardware-qemu.ini'
+2025-03-18 11:19:09,946 [71129056]   WARN - Emulator: Pixel Fold API 35 - Failed to process .ini file C:\Users\SimonSzigetvári\.android\avd\..\avd\Pixel_Fold_API_35.avd\hardware-qemu.ini for reading.
+2025-03-18 11:19:09,970 [71129080]   INFO - Emulator: Pixel Fold API 35 - Changing default hw.initialOrientation to portrait
+2025-03-18 11:19:09,970 [71129080]   INFO - Emulator: Pixel Fold API 35 - 
+2025-03-18 11:19:09,970 [71129080]   INFO - Emulator: Pixel Fold API 35 - WHPX on Windows 10.0.26100 detected.
+2025-03-18 11:19:09,970 [71129080]   INFO - Emulator: Pixel Fold API 35 - Windows Hypervisor Platform accelerator is operational
+2025-03-18 11:19:09,971 [71129081]   INFO - Emulator: Pixel Fold API 35 - C:\Users\AndroidStudio\AppData\Local\Android\Sdk\emulator\qemu\w
+2025-03-18 11:19:09,972 [71129082]   INFO - Emulator: Pixel Fold API 35 - indows-x86_64\qemu-system-x86_64.exe: Could not open 'C:\Users\SimonSzige
+2025-03-18 11:19:09,972 [71129082]   INFO - Emulator: Pixel Fold API 35 - tvári\.android\avd\..\avd\Pixel_Fold_API_35.avd\<temp>': A fájlnév,
+2025-03-18 11:19:09,972 [71129082]   INFO - Emulator: Pixel Fold API 35 - a könyvtárnév vagy a kötetcímke szintaxisa nem megfelelő.
+2025-03-18 11:19:09,972 [71129082]   INFO - Emulator: Pixel Fold API 35 - 
+2025-03-18 11:19:09,972 [71129082]   WARN - Emulator: Pixel Fold API 35 - QEMU main loop exits abnormally with code 1
+2025-03-18 11:19:09,974 [71129084]   INFO - Emulator: Pixel Fold API 35 - Wait for emulator (pid 22280) 10 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+2025-03-18 11:19:09,974 [71129084]   INFO - Emulator: Pixel Fold API 35 - 
+2025-03-18 11:19:09,983 [71129093]   WARN - Emulator: Pixel Fold API 35 - Failed to process .ini file C:\Users\SimonSzigetvári\.android\avd\<build>.ini for reading.
+2025-03-18 11:19:10,045 [71129155]   INFO - Emulator: Pixel Fold API 35 - netsimd I 03-18 10:19:10.423 daemon\src\rust_main.rs:98 - netsim artifacts path: "C:\\Users\\SIMONS~1\\AppData\\Local\\Temp\\netsimd"
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - netsimd I 03-18 10:19:10.456 daemon\src\rust_main.rs:101 - NetsimdArgs {
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - fd_startup_str: None,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - no_cli_ui: true,
+2025-03-18 11:19:10,046 [71129156]   WARN - Emulator: Pixel Fold API 35 - Failed to save 'C:\Users\SimonSzigetvári\.android\avd\..\avd\Pixel_Fold_API_35.avd\emulator-user.ini'
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - no_web_ui: true,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - pcap: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - disable_address_reuse: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - hci_port: None,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - connector_instance: None,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - instance: None,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - logtostderr: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - dev: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - rust_grpc: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - rust_hostapd: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - rust_slirp: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - vsock: None,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - config: None,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - host_dns: Some(
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - "192.168.50.1",
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - ),
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - http_proxy: None,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - wifi_tap: None,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - test_beacons: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - no_test_beacons: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - no_shutdown: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - verbose: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - version: false,
+2025-03-18 11:19:10,046 [71129156]   INFO - Emulator: Pixel Fold API 35 - }
+2025-03-18 11:19:10,069 [71129179]   WARN - Emulator: Pixel Fold API 35 - Unable to write to file C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Android Studio\.\modem_simulator\modem_nvram.json
+2025-03-18 11:19:20,182 [71139292]   INFO - Emulator: Pixel Fold API 35 - Process finished with exit code 0
+2025-03-18 11:19:21,165 [71140275]   WARN - #com.android.sdklib.deviceprovisioner.DeviceAction - The emulator process for AVD Pixel_Fold_API_35 has terminated.
+2025-03-18 11:27:55,776 [71654886]   WARN - #c.i.o.o.e.ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting
+2025-03-18 11:27:55,785 [71654895]   WARN - #c.i.o.o.e.ConfigurableExtensionPointUtil - use other group instead of unexpected one: testing.instrumented.configuration
+2025-03-18 11:27:55,785 [71654895]   WARN - #c.i.o.o.e.ConfigurableExtensionPointUtil - Use <groupConfigurable> to specify custom configurable group: other
+2025-03-18 11:27:55,785 [71654895]   WARN - #c.i.o.o.e.ConfigurableExtensionPointUtil - use other group instead of unexpected one: project.propCompiler
+2025-03-18 11:27:56,714 [71655824]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\build-tools\34.0.0\package.xml
+2025-03-18 11:27:56,739 [71655849]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\build-tools\35.0.0\package.xml
+2025-03-18 11:27:56,774 [71655884]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\cmake\3.22.1\package.xml
+2025-03-18 11:27:56,794 [71655904]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\emulator\package.xml
+2025-03-18 11:27:56,794 [71655904]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\extras\google\Android_Emulator_Hypervisor_Driver\package.xml
+2025-03-18 11:27:56,806 [71655916]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\extras\intel\Hardware_Accelerated_Execution_Manager\package.xml
+2025-03-18 11:27:56,806 [71655916]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\ndk\26.3.11579264\package.xml
+2025-03-18 11:27:56,814 [71655924]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\ndk\27.0.12077973\package.xml
+2025-03-18 11:27:56,814 [71655924]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\platform-tools\package.xml
+2025-03-18 11:27:56,822 [71655932]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\platforms\android-34\package.xml
+2025-03-18 11:27:56,824 [71655934]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\platforms\android-35\package.xml
+2025-03-18 11:27:56,824 [71655934]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\sources\android-34\package.xml
+2025-03-18 11:27:56,834 [71655944]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Parsing C:\Users\AndroidStudio\AppData\Local\Android\Sdk\system-images\android-35\google_apis_playstore\x86_64\package.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google-tv/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_atd/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-desktop/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-automotive-multiwindow/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-2.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/aosp_atd/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_tablet/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/aosp_tablet/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_xr/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_playstore_tablet/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-3.xml
+2025-03-18 11:27:56,875 [71655985]   INFO - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-automotive-distantdisplay/sys-img2-3.xml
+2025-03-18 11:27:57,105 [71656215]   WARN - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Errors during XML parse:
+2025-03-18 11:27:57,105 [71656215]   WARN - #com.android.tools.idea.progress.RepoProgressIndicatorAdapter - Additionally, the fallback loader failed to parse the XML.
+2025-03-18 11:28:14,721 [71673831]   WARN - #c.i.o.o.e.ConfigurableCardPanel - auto-dispose 'Android SDK' id=AndroidSdkUpdater
+2025-03-18 11:28:14,721 [71673831]   WARN - #c.i.o.o.e.ConfigurableCardPanel - auto-dispose 'Android SDK' id=AndroidSdkUpdater
+2025-03-18 11:28:14,721 [71673831]   WARN - #c.i.o.o.e.ConfigurableCardPanel - auto-dispose 'Android SDK' id=AndroidSdkUpdater
+2025-03-18 11:28:15,022 [71674132]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 11:28:15,022 [71674132]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 11:28:15,045 [71674155]   INFO - #c.i.a.o.PathMacrosImpl - Saved path macros: {}
+2025-03-18 11:28:18,095 [71677205]   INFO - Emulator: Pixel Fold API 35 - C:\Users\AndroidStudio\AppData\Local\Android\Sdk\emulator\emulator.exe -netdelay none -netspeed full -avd Pixel_Fold_API_35
+2025-03-18 11:28:18,185 [71677295]   INFO - Emulator: Pixel Fold API 35 - Android emulator version 35.2.10.0 (build_id 12414864) (CL:N/A)
+2025-03-18 11:28:18,185 [71677295]   INFO - Emulator: Pixel Fold API 35 - Graphics backend: gfxstream
+2025-03-18 11:28:18,185 [71677295]   INFO - Emulator: Pixel Fold API 35 - Found systemPath C:\Users\AndroidStudio\AppData\Local\Android\Sdk\system-images\android-35\google_apis_playstore\x86_64\
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Duplicate loglines will be removed, if you wish to see each individual line launch with the -log-nofilter flag.
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Increasing RAM size to 3072MB
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - IPv4 server found: 192.168.50.1
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 702f:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 702f:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 702f:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 603b:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 603b:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 603b:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 5841:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 5841:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 5841:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: e047:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: e047:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: e047:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: e84d:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: e84d:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: e84d:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: d85b:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: d85b:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: d85b:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 3862:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 3862:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Ignore IPv6 address: 3862:ec81:f801:0:702f:ec81:f801:0
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Critical:
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Warning:
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - Storing crashdata in: C:\Users\SIMONS~1\AppData\Local\Temp\\AndroidEmulator\emu-crash-35.2.10.db, detection is enabled for process: 15316
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - library_mode host gpu mode host
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - emuglConfig_get_vulkan_hardware_gpu: Using gpu 'Intel(R) UHD Graphics 620' for vulkan support
+2025-03-18 11:28:18,878 [71677988]   INFO - Emulator: Pixel Fold API 35 - 
+2025-03-18 11:28:18,878 [71677988]   WARN - Emulator: Pixel Fold API 35 - Your GPU 'Intel(R) UHD Graphics 620' has driver version 1.2.196, and cannot support Vulkan properly on windows. Please update your GPU Driver.
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - Initializing hardware OpenGLES emulation support
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - android_startOpenglesRenderer: gpu infoGPU #1
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - Make: 8086
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - Model: Intel(R) UHD Graphics 620
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - Device ID: 5917
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - I0318 11:28:18.881622    7652 HealthMonitor.cpp:279] HealthMonitor disabled.
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - I0318 11:28:19.081520    7652 FrameBuffer.cpp:522] Graphics Adapter Vendor Google (Intel)
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - I0318 11:28:19.081535    7652 FrameBuffer.cpp:523] Graphics Adapter Android Emulator OpenGL ES Translator (Intel(R) UHD Graphics 620)
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - I0318 11:28:19.081538    7652 FrameBuffer.cpp:524] Graphics API Version OpenGL ES 3.0 (4.5.0 - Build 30.0.101.1122)
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - I0318 11:28:19.081539    7652 FrameBuffer.cpp:525] Graphics API Extensions GL_OES_EGL_sync GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_depth24 GL_OES_depth32 GL_OES_element_index_uint GL_OES_texture_float GL_OES_texture_float_linear GL_OES_compressed_paletted_texture GL_OES_compressed_ETC1_RGB8_texture GL_OES_depth_texture GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_packed_depth_stencil GL_OES_vertex_half_float GL_OES_texture_npot GL_OES_rgb8_rgba8 GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_EXT_texture_format_BGRA8888 GL_APPLE_texture_format_BGRA8888
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - I0318 11:28:19.081542    7652 FrameBuffer.cpp:526] Graphics Device Extensions N/A
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - Sending adb public key [QAAAAOWavbETbXISAi2HsTuMaeSQElhNYqKeYeoXFMI5GMx1n4NUG86scwpHUnz1AgA12TAt7L/e4k9RtcwAfTvqe8KozIpsA8HqqLACFnRYx0aGSwh1RGLSZDXThRX+eP/CqaZWl0AfFGYRdQRZ/j1Ow5VMQUgY5auFxjT5jxGCEXj+Q9P9ZK/1p/9t48xDnscxUGYAGB4arGMRtFdpI3//TAWjYSlPuMuwkSZ5cjksNfY7t1ZSHhj6XpQmbRq9YVWjv/zJY9EO7eaHIh3VQ3BDqgq9z5GEJX2JbXcIvjjdz7K6H5Jbmj2jjdroCr0M6htGN/PotMS7w05FdnGqNLnl1k//U8WrvibrDg3adMwID8Zr3OB2mX4Pxrz2KF176pH9zuG1wEgP2tmub+WQam/yV8cFR1kckhmSRQF/loOKoeuzkZFJ+p549QOWiL1NWvLxygP06L6nlopputHcwlO7R6lgVXsqNFeKOzMe2qQMPysHcYtcVkBoQF3ubM7Vi0XSx01NN2PSKwnalPvP+51BxpU4lgQ8dumS7F3x3KLgnzxlg8aiXS3JAZY4Uy0j99J0LNtm2sashOLxBJCB/Ahz+4nEKQ5Prmmp9vxLmG03PfUc8ETxnrAcHrKDKZrmy/kgIbGykXJQ2m2VbqXG1BQQ8FCpI6vFE8fdfuX1mmThfAHrNCeofwEAAQA= @unknown]
+2025-03-18 11:28:19,153 [71678263]   INFO - Emulator: Pixel Fold API 35 - Configuring second built-in display with width 1080 and height 2092 for pixel_fold device
+2025-03-18 11:28:19,153 [71678263]   WARN - Emulator: Pixel Fold API 35 - Ignoring invalid parameter detected in function: 0000000000000000 file: 0000000000000000, line: 0, expression: 0000000000000000
+2025-03-18 11:28:19,155 [71678265]   WARN - Emulator: Pixel Fold API 35 - Failed to save 'C:\Users\SimonSzigetvári\.android\avd\..\avd\Pixel_Fold_API_35.avd\hardware-qemu.ini'
+2025-03-18 11:28:19,162 [71678272]   WARN - Emulator: Pixel Fold API 35 - Failed to process .ini file C:\Users\SimonSzigetvári\.android\avd\..\avd\Pixel_Fold_API_35.avd\hardware-qemu.ini for reading.
+2025-03-18 11:28:19,184 [71678294]   INFO - Emulator: Pixel Fold API 35 - Changing default hw.initialOrientation to portrait
+2025-03-18 11:28:19,184 [71678294]   INFO - Emulator: Pixel Fold API 35 - 
+2025-03-18 11:28:19,184 [71678294]   INFO - Emulator: Pixel Fold API 35 - WHPX on Windows 10.0.26100 detected.
+2025-03-18 11:28:19,184 [71678294]   INFO - Emulator: Pixel Fold API 35 - Windows Hypervisor Platform accelerator is operational
+2025-03-18 11:28:19,184 [71678294]   INFO - Emulator: Pixel Fold API 35 - C:\Users\AndroidStudio\AppData\Local\Android\Sdk\emulator\qemu\wind
+2025-03-18 11:28:19,185 [71678295]   INFO - Emulator: Pixel Fold API 35 - ows-x86_64\qemu-system-x86_64.exe: Could not open 'C:\Users\SimonSzigetvári\.andro
+2025-03-18 11:28:19,185 [71678295]   INFO - Emulator: Pixel Fold API 35 - id\avd\..\avd\Pixel_Fold_API_35.avd\<temp>': A fájlnév, a könyvtárnév vagy a kötetcímke szintaxisa nem megfelelő.
+2025-03-18 11:28:19,185 [71678295]   WARN - Emulator: Pixel Fold API 35 - QEMU main loop exits abnormally with code 1
+2025-03-18 11:28:19,185 [71678295]   INFO - Emulator: Pixel Fold API 35 - Wait for emulator (pid 15316) 10 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+2025-03-18 11:28:19,185 [71678295]   INFO - Emulator: Pixel Fold API 35 - 
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - netsimd I 03-18 10:28:19.191 daemon\src\rust_main.rs:98 - netsim artifacts path: "C:\\Users\\SIMONS~1\\AppData\\Local\\Temp\\netsimd"
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - netsimd I 03-18 10:28:19.192 daemon\src\rust_main.rs:101 - NetsimdArgs {
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - fd_startup_str: None,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - no_cli_ui: true,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - no_web_ui: true,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - pcap: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - disable_address_reuse: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - hci_port: None,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - connector_instance: None,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - instance: None,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - logtostderr: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - dev: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - rust_grpc: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - rust_hostapd: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - rust_slirp: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - vsock: None,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - config: None,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - host_dns: Some(
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - "192.168.50.1",
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - ),
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - http_proxy: None,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - wifi_tap: None,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - test_beacons: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - no_test_beacons: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - no_shutdown: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - verbose: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - version: false,
+2025-03-18 11:28:19,191 [71678301]   INFO - Emulator: Pixel Fold API 35 - }
+2025-03-18 11:28:19,198 [71678308]   WARN - Emulator: Pixel Fold API 35 - Failed to process .ini file C:\Users\SimonSzigetvári\.android\avd\<build>.ini for reading.
+2025-03-18 11:28:20,229 [71679339]   INFO - Emulator: Pixel Fold API 35 - Activated packet streamer for bluetooth emulation
+2025-03-18 11:28:29,478 [71688588]   INFO - Emulator: Pixel Fold API 35 - Process finished with exit code 1
+2025-03-18 11:28:29,478 [71688588]   WARN - Emulator: Pixel Fold API 35 - Emulator terminated with exit code 1
+2025-03-18 11:28:34,427 [71693537]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 11:28:34,428 [71693538]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 11:28:46,287 [71705397]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 11:28:46,288 [71705398]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 11:29:24,555 [71743665]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 11:29:24,558 [71743668]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 11:29:26,648 [71745758]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 11:29:26,648 [71745758]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-03-18 11:29:29,405 [71748515]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-03-18 11:29:29,408 [71748518]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
