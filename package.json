@@ -18,6 +18,7 @@
     "@wdio/mocha-framework": "^9.10.1",
     "@wdio/spec-reporter": "^9.10.1",
     "appium": "^2.17.1",
+    "appium-flutter-driver": "^2.14.2",
     "appium-uiautomator2-driver": "^4.1.0",
     "wdio-wait-for": "^3.1.0",
     "webdriverio": "^9.10.1"
